@@ -1,0 +1,15 @@
+D:\Project\2048\2048\bin\Debug\netcoreapp3.1\2048.exe
+D:\Project\2048\2048\bin\Debug\netcoreapp3.1\2048.deps.json
+D:\Project\2048\2048\bin\Debug\netcoreapp3.1\2048.runtimeconfig.json
+D:\Project\2048\2048\bin\Debug\netcoreapp3.1\2048.runtimeconfig.dev.json
+D:\Project\2048\2048\bin\Debug\netcoreapp3.1\2048.dll
+D:\Project\2048\2048\bin\Debug\netcoreapp3.1\2048.pdb
+D:\Project\2048\2048\obj\Debug\netcoreapp3.1\2048.csprojAssemblyReference.cache
+D:\Project\2048\2048\obj\Debug\netcoreapp3.1\_2048.Form1.resources
+D:\Project\2048\2048\obj\Debug\netcoreapp3.1\2048.csproj.GenerateResource.cache
+D:\Project\2048\2048\obj\Debug\netcoreapp3.1\2048.AssemblyInfoInputs.cache
+D:\Project\2048\2048\obj\Debug\netcoreapp3.1\2048.AssemblyInfo.cs
+D:\Project\2048\2048\obj\Debug\netcoreapp3.1\2048.csproj.CoreCompileInputs.cache
+D:\Project\2048\2048\obj\Debug\netcoreapp3.1\2048.dll
+D:\Project\2048\2048\obj\Debug\netcoreapp3.1\2048.pdb
+D:\Project\2048\2048\obj\Debug\netcoreapp3.1\2048.genruntimeconfig.cache
